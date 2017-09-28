@@ -11,5 +11,5 @@ logShout = (str) => {
 }
 
 logWhisper = (str) => {
-  console.log(str.toUpperCase());
+  console.log(str.toLowerCase());
 }
