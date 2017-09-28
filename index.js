@@ -1,5 +1,5 @@
-function shout (string) {
-  return str.toUpperCase();
+function shout(string) {
+  return string
 }
 
 whisper = (str) => {
