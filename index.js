@@ -1,3 +1,3 @@
-shout = () => {
-  
+shout = (str) => {
+  return str.toUpperCase
 }
